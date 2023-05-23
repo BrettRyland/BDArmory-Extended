@@ -1,0 +1,38 @@
+-Adds 37mm turret
+-Adds 37mm CIWS
+-Adds 37mm Ammo drum
+-Adds Torsion Cannon
+-Adds 57mm AntiTank gun
+-Adds 57mm Ammo box
+-Tweaked 57/76/100/130mm turret sizes
+-Reduced 130mm Turret firerate
+-new fire/reload SFX for 75/76/100/130mm turrets
+-Tweaked Turret Ammos; AP/Incendiary rounds now have small delay-fuzed bursting charges
+-Tweaked flak cannon performance
+-Chemical Laser attach orientation fixed
+-Chemlaser damage boosted 25%
+-Chemlaser given 0.25deg gimbal
+-Plasmabeam mass reduced
+-Plasmabeam damage increased
+-Mauser RoF decreased to 1100
+-Repeater damage decreased
+-Weapon accuracies tweaked
+-Adds single missile ordinance sidebay
+-Adds Cluster Missile
+-Adds bomblet dispenser
+-Adds a bunch of new missiles, models from Toonu; Many thanks!
+ - Long range radar missle
+ - Antiship Missile
+ - Long Range ATG Missile
+ - Heavy ATG Missile
+ - Long range heatseeking Missile
+ - Extended long range heatseeking Missile
+ - Homing Anti-ECM Missile
+ - Short range High Impact radar Missile
+ - Light short range radar Missile
+ - Short Range Pursuit Heatseeking Missile
+ - Short Range swarm heatseeking missile
+ - Rear-Aspect heatseeking Missile
+ - Passive medium range radar Missile
+ - New model for the AIM-4s
+ - New model for the HARM AA
