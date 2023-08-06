@@ -1,3 +1,5 @@
 This mod for Kerbal Space Program was developed by SuicidalInsanity and DocNappers and distributed under the license CC-BY-SA 4.0.
 https://creativecommons.org/licenses/by-sa/4.0/
 before attempting to modify and redistribute it.
+
+Some missile models made by Toonu and used with permission

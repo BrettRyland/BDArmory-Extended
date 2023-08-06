@@ -1,3 +1,21 @@
+-Adds localization tags to all BDA-E parts
+-Adds fuelswap option for droptanks if B9PS installed
+-Adds VLS quad launcher
+-Adds RIM-162 missile
+-Adds AIM-54 Phoenix
+-Adds Cloaking Device
+-Fixes issue with CLS-24 missile
+-Improve cluster missile submunition performance
+-Reduced CLS missile tracking slightly, boosted thrust slightly
+-Fixes Eifreet exhaust FX
+-Fixes Hotspur exhaust FX
+-Improved Homing Hydra Rocket turn rate
+-Improved Firelance performance
+-APS and Point Defense blister turret moved to Countermeasures tab
+-Point Defense turret can now be used manually/by the AI against non-missile targets
+-37mm CIWS turret will now automatically engage incoming missiles
+
+============================================================================
 -Adds 37mm turret
 -Adds 37mm CIWS
 -Adds 37mm Ammo drum
