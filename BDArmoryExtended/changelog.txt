@@ -1,3 +1,14 @@
+-Molot now uses dynamic GPS coords
+-VLS quad Launcher can now specify salvo size instead of being locked to 1 (pending BDA 1.6.5.1)
+-VLS Quad launcher opening anim now a bit faster (pending BDA 1.6.5.1)
+-Fix transforms used for launch clearance check on CLS pods
+-Fix .cfg issue with PD MG turret
+-Fix Phoenix not being loadable in the reloadable missile bay
+-Fix Bomblet Dispenser ejecting its bombs sideways
+
+===================================================================
+
+
 -Adds localization tags to all BDA-E parts
 -Adds fuelswap option for droptanks if B9PS installed
 -Adds VLS quad launcher
