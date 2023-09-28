@@ -1,3 +1,9 @@
+-Fix various localization issues
+-Fix non-reloadable Missile pod broken scaling
+-Fix AIM-54 terminal maneuvers wiggliness
+-Tweak Swordfish torpedo guidance to make it more effective at longer ranges
+===================================================================
+
 -Adds Swordfish Passive Sonar torpedo
 -Adds Tigershark heavy Active Sonar torpedo
 -Adds triple torpedo launcher
