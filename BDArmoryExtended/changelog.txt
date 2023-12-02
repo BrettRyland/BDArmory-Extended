@@ -1,3 +1,12 @@
+-Clustermissile submunitions reduced to 8
+-reload times of reloadable rails increased
+-some long range missiles swapped from GPS to inertial initial guidance
+-tweak accuracy of the 100/130mm turrets
+-increase torsion cannon max range
+-Fix missile thrust/aero performance on various missiles that were underperforming
+
+=====================================================
+
 -Fix various localization issues
 -Fix non-reloadable Missile pod broken scaling
 -Fix AIM-54 terminal maneuvers wiggliness
