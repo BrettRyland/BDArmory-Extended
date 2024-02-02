@@ -1,3 +1,16 @@
+-Fix localization error on the 37mm ammo box.
+-Fix attach node positions on 37mm ammo drum.
+-Fix HACM attach node.
+-Fix flakcannon/100mmTurret/130mmTurret flak ammo dispersion.
+-Add Pulselaser.
+-Add Pavise CIMS Turret.
+-Changed RIM-162 to RIM-66D.
+-RIM-66D changed to use Kappa guidance.
+-37mm twin Turret no longer has overly large base.
+-Some performance fixes for the laser AGMs.
+-Moved the Homing Hydra to the missiles tab.
+
+=====================================================
 -Clustermissile submunitions reduced to 8
 -reload times of reloadable rails increased
 -some long range missiles swapped from GPS to inertial initial guidance
