@@ -1,3 +1,8 @@
+-Chinese localization, courtesy of Marv1n
+-correct supProjectileCount -> projectileCount for several bulletdefs
+-New Single cell VLS part, courtesy of Spartwo
+
+======================================================
 -Fix localization error on the 37mm ammo box.
 -Fix attach node positions on 37mm ammo drum.
 -Fix HACM attach node.
