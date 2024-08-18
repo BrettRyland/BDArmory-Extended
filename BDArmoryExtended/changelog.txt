@@ -1,6 +1,10 @@
 -Chinese localization, courtesy of Marv1n
 -correct supProjectileCount -> projectileCount for several bulletdefs
--New Single cell VLS part, courtesy of Spartwo
+-New Single Cell VLS part, courtesy of Spartwo
+-New laser weapons, courtesy of EclipticIndustries
+-New Missile Ammunition Magazine parts
+-Fix Phoenix guidance
+-General improvement of weapon accuracy
 
 ======================================================
 -Fix localization error on the 37mm ammo box.
