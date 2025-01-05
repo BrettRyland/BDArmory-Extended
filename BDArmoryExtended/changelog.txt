@@ -1,3 +1,12 @@
+-Fix reloadable missile launcher ammo amounts
+-Fix Swordfish torpedo and Molot AShM not guiding properly
+-Add Organizer tabs (courtesy of Spartwo)
+-update SimpleRepaint MM patch
+-Fix AI not jettisoning droptank on competition start
+-Fix issues with Phoenix missile
+-Increase reloadable missile bay open speed
+====================================================
+
 -Chinese localization, courtesy of Marv1n
 -correct supProjectileCount -> projectileCount for several bulletdefs
 -New Single Cell VLS part, courtesy of Spartwo
