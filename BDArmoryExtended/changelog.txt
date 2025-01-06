@@ -5,6 +5,7 @@
 -Fix AI not jettisoning droptank on competition start
 -Fix issues with Phoenix missile
 -Increase reloadable missile bay open speed
+-Fix VLS/TorpedoLauncher attach nodes, should now be able to attach ordinance from any orientation.
 ====================================================
 
 -Chinese localization, courtesy of Marv1n
