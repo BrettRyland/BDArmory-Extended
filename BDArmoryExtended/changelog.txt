@@ -5,7 +5,10 @@
 -Fix AI not jettisoning droptank on competition start
 -Fix issues with Phoenix missile
 -Increase reloadable missile bay open speed
+-Fix Collider on singlecell VLS
+-Fix collider on twinRail
 -Fix VLS/TorpedoLauncher attach nodes, should now be able to attach ordinance from any orientation.
+-Adds new small warhead options
 ====================================================
 
 -Chinese localization, courtesy of Marv1n
