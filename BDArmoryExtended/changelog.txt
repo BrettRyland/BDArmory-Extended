@@ -1,3 +1,19 @@
+-Missiles Refactor
+-All missiles using borrowed Toonu models now have custom models.
+-Missile statlines re-statted to better balance missiles; old missiles moved to Legacy for backwards compatibility with saved craft.
+-Adds new IR missiles: Imp (short range), Incubus (rear-aspect), Hellhound (quick maneuver), Eifreet (long range), and Balrog (extended range).
+-Adds new Radar missiles: Peltast (short range), Lancer (heavy short range), Myrmidon (SARH), Hoplite (medium range), Uhlan (extended range).
+-Adds new Moth ARAD missile.
+-Adds new laser ATG missiles: Mattock (heavy), Lucerne (extended range).
+-Adds new Anti-Ship missiles: Squall (cruisemissile), Typhoon (hypersonic).
+-Adds new Surface to Air missiles: Thrall (light ARH), Jannisary (SARH), Surtr (IR), Cataphract (heavy ARH), Halbech (cluster missile).
+-Adds new Surface-to-Orbit Anti-Satellite Starslayer missile.
+-Adds new missile turrets: Heavy twin rail GMLR, medium single rail GMLR, light twin turret.
+-Adds new Ammo Drums for 12.7, 20, 25, and 30mm ammo.
+-Adds 76mm Ammo Box.
+
+======================================================
+
 -Fix reloadable missile launcher ammo amounts
 -Fix Swordfish torpedo and Molot AShM not guiding properly
 -Add Organizer tabs (courtesy of Spartwo)
