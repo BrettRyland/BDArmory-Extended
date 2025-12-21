@@ -20,13 +20,13 @@ PART
 	description = #loc_BDArmory_part_bahaASAT_desc
 	attachRules = 1,1,1,1,0
 	stackSymmetry = 2
-	mass = 0.285
+	mass = 0.300
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
 	angularDrag = .25
 	crashTolerance = 40
-	maxTemp = 2000
+	maxTemp = 2500
 	fuelCrossFeed = True
 	thermalMassModifier = 6.0
 	emissiveConstant = 0.95
@@ -38,11 +38,11 @@ PART
 		name = MissileLauncher
 
 		shortName = Starslayer
-		thrust = 90 //KN thrust during boost phase
-		cruiseThrust = 12 //thrust during cruise phase
+		thrust = 80 //KN thrust during boost phase
+		cruiseThrust = 2.5 //thrust during cruise phase
 		dropTime = 0.55 //how many seconds after release until engine ignites
 		boostTime = 6//seconds of boost phase
-		cruiseTime = 20 //seconds of cruise phase
+		cruiseTime = 60 //seconds of cruise phase
 		guidanceActive = true //missile has guidanceActive
 		maxTurnRateDPS = 35 //thrust+maxTurnRateDPS is the value used by the AI to prioritize missiles over each other. maxTurnRateDPS, in degrees per second, ONLY affects flight of RCS missiles like the HEKV1
 
@@ -77,7 +77,7 @@ PART
 		chaffEffectivity = 1 //modifies how the missile targeting is affected by chaff, 1 is fully affected (normal behavior), lower values mean less affected (i.e. 0 ignores chaff), higher values means more affected
 
 		minStaticLaunchRange = 4000 // minimum launch range in meters assuming craft don't move, final min launch distance is dynamically calculated based on target/launching craft speeds
-		maxStaticLaunchRange = 100000 // maximum launch range in meters assuming craft don't move, final max launch distance is dynamically calculated based on target/launching craft speeds
+		maxStaticLaunchRange = 130000 // maximum launch range in meters assuming craft don't move, final max launch distance is dynamically calculated based on target/launching craft speeds
 
 		radarLOAL = true //radar lock on after launch
 
