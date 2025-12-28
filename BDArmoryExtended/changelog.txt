@@ -10,6 +10,7 @@
 -Adds new missile turrets: Heavy twin rail GMLR, medium single rail GMLR, light twin turret.
 -Adds new Ammo Drums for 12.7, 20, 25, and 30mm ammo.
 -Adds 76mm Ammo Box.
+-Adds single rail reloadable missile rail
 -Fix single cell VLS missile orientation
 
 ======================================================
