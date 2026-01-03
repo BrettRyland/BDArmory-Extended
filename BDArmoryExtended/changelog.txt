@@ -1,9 +1,14 @@
+1.5.1
 -Fix Typos/localization errors.
 -Fix missing faces on Heavy GMLR turret model.
--Fix Adjustable Reloadable Rail Length scaling, missile offset
--Fix Single GMLR turret rotation
+-Fix Adjustable Reloadable Rail Length scaling, missile offset.
+-Fix Single GMLR turret rotation.
+-Fix GMLR turrets reload aminations.
+-Adds Reloadable version of the stock BDA Jernas turret (thanks Sidestrafe!).
+-Fix Strip CM box.
 
 ==================================================================
+1.5
 -Missiles Refactor
 -All missiles using borrowed Toonu models now have custom models.
 -Missile statlines re-statted to better balance missiles both against each other and vs stock BDA; old missiles moved to Legacy for backwards compatibility with saved craft.
