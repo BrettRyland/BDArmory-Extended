@@ -1,3 +1,12 @@
+1.5.2
+-Fix single VLS cell scaling
+-Fix breaking torque/force values for VLS cells
+-SingleVLS now costs 1/4th that of quad VLS
+-Fix typo on SA-16P Janissary 
+-Adds Chinese localization
+-Missiles now have BDAcategories
+-Fix strip CM scaling, naming convention
+==============================================
 1.5.1
 -Fix Typos/localization errors.
 -Fix missing faces on Heavy GMLR turret model.
