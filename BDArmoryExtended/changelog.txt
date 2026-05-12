@@ -6,6 +6,8 @@
 -Adds Chinese localization
 -Missiles now have BDAcategories
 -Fix strip CM scaling, naming convention
+-Fix Bomblet Dispenser default ammo quantity
+
 ==============================================
 1.5.1
 -Fix Typos/localization errors.
