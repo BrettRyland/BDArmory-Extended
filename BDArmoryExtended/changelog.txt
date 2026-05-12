@@ -7,6 +7,7 @@
 -Missiles now have BDAcategories
 -Fix strip CM scaling, naming convention
 -Fix Bomblet Dispenser default ammo quantity
+-Add VABOrganizer support (thanks Spartwo)
 
 ==============================================
 1.5.1
