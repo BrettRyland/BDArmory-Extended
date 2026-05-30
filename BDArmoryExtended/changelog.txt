@@ -3,22 +3,30 @@
 -Fix breaking torque/force values for VLS cells
 -SingleVLS now costs 1/4th that of quad VLS
 -Fix typo on SA-16P Janissary 
--Adds Chinese localization
+-Adds Chinese localization (thanks tsingshitao!)
 -Missiles now have BDAcategories
 -Fix strip CM scaling, naming convention
 -Fix Bomblet Dispenser default ammo quantity
 -Add VABOrganizer support (thanks Spartwo)
-
+-Adds new fixed guns for use in custom turrets, etc:
+ -20mm revolver cannon, gatling gun
+ -30mm gatling gun
+ -57mm autocannon
+ -76mm gun
+ -105mm howitzer, recoilless gun
+ -120mm tank gun, long barrel tank gun
+ -155mm howitzer
+ -203mm howitzer
+ -1/2/3 cell TOW launcher
+-Update lasers to use new BDA aperture and tanAngle fields
 ==============================================
 1.5.1
 -Fix Typos/localization errors.
 -Fix missing faces on Heavy GMLR turret model.
--Fix Adjustable Reloadable Rail Length scaling, missile offset.
--Fix Single GMLR turret rotation.
--Fix GMLR turrets reload aminations.
--Adds Reloadable version of the stock BDA Jernas turret (thanks Sidestrafe!).
--Fix Strip CM box.
-
+-Fix Adjustable Reloadable Rail Length scaling, missile offset
+-Fix Single GMLR turret rotation
+-Adds Reloadable version of the stock BDA Jernas turret (thanks Sidestrafe!)
+-Fix Strip CM box
 ==================================================================
 1.5
 -Missiles Refactor
