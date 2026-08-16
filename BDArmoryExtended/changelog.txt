@@ -1,3 +1,7 @@
+1.5.2.1
+-Adjust CoM offset for the heavier fixed guns to assist with custom turret usage
+-Tweak 57mm heavy Autocannon model
+========================================================
 1.5.2
 -Fix single VLS cell scaling
 -Fix breaking torque/force values for VLS cells
