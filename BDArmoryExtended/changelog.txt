@@ -1,8 +1,9 @@
 1.5.3
--Remove 1deg turret gimbal from heavy fixed guns - no longer necessary as of BDA 1.13.1 on custom turrets for aim assist
--Heavy fixed guns CoM now at mounting point/trunnions, should help with custom turret traverse
--Ammo/resource defs moved to their own files for better maintainability
--Adds scalable ammo boxes/drums. Existing ammo drums moved to Legacy
+-Remove 1deg turret gimbal from heavy fixed guns - no longer necessary as of BDA 1.13.1 on custom turrets for aim assist.
+-Heavy fixed guns CoM now at mounting point/trunnions, should help with custom turret traverse.
+-Ammo/resource defs moved to their own files for better maintainability.
+-Adds scalable ammo boxes/drums. Existing ammo drums moved to Legacy.
+-Add missing autoProxyTrackRange to various guns.
 
 1.5.2
 -Fix single VLS cell scaling
